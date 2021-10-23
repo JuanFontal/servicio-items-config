@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c64a84-fd0c-49a1-9cec-0cd8e0685b06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/servicio-usuarios-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicio-usuarios-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servicio-usuarios-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
       <updated>1634761727552</updated>
       <workItem from="1634761731681" duration="5438000" />
       <workItem from="1634913173385" duration="2694000" />
-      <workItem from="1634994945752" duration="1913000" />
+      <workItem from="1634994945752" duration="2264000" />
     </task>
     <servers />
   </component>
